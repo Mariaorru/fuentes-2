@@ -1,0 +1,10 @@
+.caveat{
+	font-family: Caveat;
+}
+@font-face{
+	font-family: dancing;
+	src: url(../font/dancing.ttf);
+}
+.dancing{
+	font-family: dancing;
+}
